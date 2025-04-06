@@ -1,0 +1,9 @@
+https://sepolia.unichain.org/
+https://unichain-sepolia-rpc.publicnode.com
+https://unichain-sepolia.public.blastapi.io
+https://unichain-sepolia.blockpi.network/v1/rpc/public
+https://unichain-sepolia.drpc.org
+https://unichain-sepolia.rpc.hypersync.xyz/
+https://unichain-sepolia.api.onfinality.io/public
+https://unichain-sepolia.gateway.tenderly.co
+https://1301.rpc.thirdweb.com/
