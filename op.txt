@@ -1,0 +1,12 @@
+https://sepolia.optimism.io
+https://optimism-sepolia-rpc.publicnode.com
+https://optimism-sepolia.public.blastapi.io
+https://optimism-sepolia.drpc.org/
+https://optimism-sepolia.rpc.hypersync.xyz/
+https://testnet-rpc.etherspot.io/v1/11155420
+https://go.getblock.io/f1835e6f72d0444f97ed97921374c6c2
+https://lb.nodies.app/v1/d2c9ebe7f91a4c0387273acacd7bad5a
+https://endpoints.omniatech.io/v1/op/sepolia/public
+https://op-sepolia-pokt.nodies.app/
+https://optimism-sepolia.gateway.tenderly.co
+https://op-sepolia-testnet.rpc.thirdweb.com/
