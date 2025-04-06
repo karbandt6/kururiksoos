@@ -1,12 +1,4 @@
-https://sepolia.optimism.io
+https://lb.drpc.org/ogrpc?network=optimism-sepolia&dkey=AtaHNzdOh0AEsIA_pd047fTArCwQCM4R8I-wssvAG40d
 https://optimism-sepolia-rpc.publicnode.com
-https://optimism-sepolia.public.blastapi.io
-https://optimism-sepolia.drpc.org/
-https://optimism-sepolia.rpc.hypersync.xyz/
-https://testnet-rpc.etherspot.io/v1/11155420
-https://go.getblock.io/f1835e6f72d0444f97ed97921374c6c2
-https://lb.nodies.app/v1/d2c9ebe7f91a4c0387273acacd7bad5a
-https://endpoints.omniatech.io/v1/op/sepolia/public
-https://op-sepolia-pokt.nodies.app/
-https://optimism-sepolia.gateway.tenderly.co
-https://op-sepolia-testnet.rpc.thirdweb.com/
+https://virtual.optimism-sepolia.rpc.tenderly.co/63f30ca9-328a-48a6-b7bd-9472d40f35ae
+https://optimism-sepolia.blockpi.network/v1/rpc/a0cb78a702760b3fb750cebffdf7062632b40d68

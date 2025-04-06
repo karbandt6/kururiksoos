@@ -1,12 +1,4 @@
-https://sepolia.base.org
+https://lb.drpc.org/ogrpc?network=base-sepolia&dkey=AtaHNzdOh0AEsIA_pd047fTArCwQCM4R8I-wssvAG40d
 https://base-sepolia-rpc.publicnode.com
-https://base-sepolia.public.blastapi.io
-https://base-sepolia.drpc.org/
-https://base-sepolia.rpc.hypersync.xyz/
-https://testnet-rpc.etherspot.io/v1/84532
-https://go.getblock.io/84d4699395074569a0e816601ecd4120
-https://lb.nodies.app/v1/9d3db2f7db8e431a9840fa74a5e47db2
-https://endpoints.omniatech.io/v1/base/sepolia/public
-https://base-sepolia.api.onfinality.io/public
-https://base-sepolia.gateway.tenderly.co
-https://base-sepolia-testnet.rpc.thirdweb.com/
+https://virtual.base-sepolia.rpc.tenderly.co/20d0e97e-e7da-4e51-a564-14188fbe608c
+https://base-sepolia.blockpi.network/v1/rpc/2100acf73b74db037da1e0b568a55d1f648a473b

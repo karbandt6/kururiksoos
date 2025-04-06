@@ -1,11 +1,4 @@
+https://lb.drpc.org/ogrpc?network=arbitrum-sepolia&dkey=AtaHNzdOh0AEsIA_pd047fTArCwQCM4R8I-wssvAG40d
 https://arbitrum-sepolia-rpc.publicnode.com
-https://arbitrum-sepolia.drpc.org/
-https://arbitrum-sepolia.public.blastapi.io
-https://arbitrum-sepolia.rpc.hypersync.xyz/
-https://testnet-rpc.etherspot.io/v1/421614
-https://go.getblock.io/c46ef5c02f9b4a09a7eedc7d68d8d5f9
-https://sepolia-rollup.arbitrum.io/rpc
-https://endpoints.omniatech.io/v1/arbitrum/sepolia/public
-https://arbitrum-sepolia.api.onfinality.io/public
-https://arbitrum-sepolia.gateway.tenderly.co/
-https://arbitrum-sepolia.rpc.thirdweb.com/
+https://virtual.arbitrum-sepolia.rpc.tenderly.co/0799133f-4955-4e16-92f6-e813385b1335
+https://arbitrum-sepolia.blockpi.network/v1/rpc/73632d79a1eca8992e0dc6792dc91ff415b46347

@@ -1,9 +1,4 @@
-https://sepolia.unichain.org/
+https://lb.drpc.org/ogrpc?network=unichain-sepolia&dkey=AtaHNzdOh0AEsIA_pd047fTArCwQCM4R8I-wssvAG40d
 https://unichain-sepolia-rpc.publicnode.com
-https://unichain-sepolia.public.blastapi.io
-https://unichain-sepolia.blockpi.network/v1/rpc/public
-https://unichain-sepolia.drpc.org
-https://unichain-sepolia.rpc.hypersync.xyz/
-https://unichain-sepolia.api.onfinality.io/public
-https://unichain-sepolia.gateway.tenderly.co
-https://1301.rpc.thirdweb.com/
+https://virtual.astrochain-sepolia.rpc.tenderly.co/4e40332b-7541-47c2-8411-a97a9a4f16b6
+https://unichain-sepolia.blockpi.network/v1/rpc/44abc74aa509473120954d1b3f2a36fb81eb359a
